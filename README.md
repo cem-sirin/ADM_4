@@ -3,5 +3,5 @@ This repository is for submitting the fourth homework of Algorithmic Methods of 
 1. `main.ipynb`: a Jupyter Notebook that answers the questions: 
 - Finding Similar Costumers
 - Grouping customers together!
-- Theoretical question
+- Algorithmic question
 2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
