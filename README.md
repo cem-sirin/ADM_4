@@ -4,4 +4,5 @@ This repository is for submitting the fourth homework of Algorithmic Methods of 
 - Finding Similar Costumers
 - Grouping customers together!
 - Algorithmic question
-2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
+2. `datasets.py`: a Python script that process and load the datasets.
+3. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
